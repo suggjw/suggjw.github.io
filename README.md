@@ -2,7 +2,7 @@
 
 I am currently Associate Professor of Geography at Appalachian State University in North Carolina, USA. I have worked in geospatial tech across education, research, private, and nonprofit sectors, with experience in static and interactive maps, project management, and GIS application support. I am passionate about user-centered design and finding the right use cases and contexts of geographic information for decision makers. My current work is focused in the areas of cartography and web mapping, climatology, communication and visualization, and human perception.
 
-<img src="/img/modis_20240117.png" width=1000>
+<img src="/img/modis_20240117.png" width=1000 height=275>
 
 #### Portfolio
 
