@@ -4,15 +4,15 @@ I am currently Associate Professor of Geography at Appalachian State University 
 
 <img src="/img/modis_20240117.png" width=1000 height=400>
 
-#### Portfolio
+### Portfolio
 
-#### Recent Teaching
+### Recent Teaching
 - *Cartographic design & analysis*
 - *Web mapping*
 - *Communicating geographic information*
 - *Nature and culture of climate change*
 
-#### Recent Research
+### Recent Research
 - Exploring second-order climate change beliefs with interactive maps. [*AAG Honolulu Poster*](https://drive.google.com/file/d/1usZJmeLQA7tzjIlPhyokqH66HvG_iyEM/view?usp=sharing) (2024).
 - Geographical Insights on the Partisan Polarization of the Acceptance of Human-Caused Climate Change in the US. [*Southeastern Geographer*](https://muse.jhu.edu/article/896304). 2023
 - Examining spatiotemporal trends of drought in the conterminous United States using self-organizing maps. [*Physical Geography*](https://www.tandfonline.com/doi/full/10.1080/02723646.2022.2035891) (2022).
